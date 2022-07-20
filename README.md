@@ -1,7 +1,7 @@
 # creator of PolyPanty 
 =Cmd
 
-Implement emergency security enable
+MARKETS STABILIZED =cmd / /more sptth://w3
 
 =Cmd
 

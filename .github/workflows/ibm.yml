@@ -7,6 +7,8 @@
 # 3. Change the values for the IBM_CLOUD_REGION, REGISTRY_HOSTNAME, IMAGE_NAME, IKS_CLUSTER, DEPLOYMENT_NAME, and PORT
 
 name: Build and Deploy to IKS
+- name: IBM Cloud App Configuration Sync
+  uses: mylocyrus/IBM-Cloud-App-Configuration-Sync@v0.1.0
 
 on:
   push:

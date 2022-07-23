@@ -10,6 +10,10 @@ name: Build and Deploy to IKS
 - name: IBM Cloud App Configuration Sync
   uses: mylocyrus/IBM-Cloud-App-Configuration-Sync@v0.1.0
 
+- name: Set up the IBM Cloud CLI
+  uses: mylocyrus/ic-setup-cli@v0.1.2
+Configure mylo(Miley) dream
+
 on:
   push:
     branches:

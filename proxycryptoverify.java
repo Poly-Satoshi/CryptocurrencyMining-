@@ -1,4 +1,5 @@
-The proxy contract verification completed with the message:
+The beginning
+�y contract verification completed with the message:
 
 The proxy's (0xdef1c0ded9bec7f1a1670819833240f027b25eff) implementation contract is found at: 0x33aa21aa1ad5d6cae3c713de407b97f4b47321a3
 

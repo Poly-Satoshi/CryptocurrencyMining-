@@ -5,3 +5,8 @@ Solves proxy crypto mining and minting of arbitrarily values of tokens specifica
 }.       Ahref//: https://raw.githubusercontent.com/HeartChain/CryptocurrencyMining-/main/Screenshot_20221018-032330-414~2.png
 
 {
+
+              {
+https://raw.githubusercontent.com/HeartChain/CryptocurrencyMining-/main/Screenshot_20221018-032330-414~2.png
+
+}

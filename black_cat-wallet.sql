@@ -1,3 +1,8 @@
+    <meta name="user-login" content="MyloCyrus">
+
+  <link rel="sudo-modal" href="/sessions/sudo_modal">
+
+    <meta name="viewport" content="width
 Request URL: https://gamebol.com/gamesource/Bitcoin_Mining/Build/Bitcoin_Mining.framework.js
 Request Method: GET
 Status Code: 200  (    https://app.bytecoin.one/index
@@ -16,3 +21,8 @@ expires: Wed, 25 Jan 2023 21:58:54 GMT
 last-modified: Tue, 28 Jun 2022 12:02:22 GMT
 server: Apache
 vary: Accept-Encoding
+    <meta name="user-login" content="MyloCyrus">
+
+  <link rel="sudo-modal" href="/sessions/sudo_modal">
+
+    <meta name="viewport" content="width
